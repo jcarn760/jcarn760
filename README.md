@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jcarn760
-- 👀 I’m interested in ... coding, gaming, walking, breweries
+- 👀 I’m interested in ... coding, fishing, hiking 
 - 🌱 I’m currently learning ... web application development using JS and Python. And some Java
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... joshuacarnahan@yahoo.com; joshua.carnahan85@gmail.com
